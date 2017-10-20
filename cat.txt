@@ -1,2 +1,6 @@
 cat readme.
+<<<<<<< HEAD
 partner B.
+=======
+partner A.
+>>>>>>> fc720a558b71591fab5c2c4bbe6c7a2b0a355e0c
